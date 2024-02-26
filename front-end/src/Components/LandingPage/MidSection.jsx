@@ -6,9 +6,9 @@ export default function MidSection() {
             <div className="container-fluid bg-dark">
                 <div className="container border-top">
                     <div className="row py-4">
-                        <div className="col-lg-6">
+                        <div className="col-lg-6 bg-primary">
                             {/* The logo comes here */}
-                            <div className='py-5'>
+                            <div className='py-5 bg-secondary'>
                             <h2 className='text-white'>Logo</h2>
                             </div>
                             <form>
